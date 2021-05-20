@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Sam
 
 - 🌱 My current skill set includes: 
-//
+
 Java
-//
+
 Python
-//
+
 CSS, HTML, Javascript
-//
+
 C++/C
 
 

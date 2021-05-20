@@ -6,7 +6,7 @@ Java
 
 Python
 
-CSS, HTML, Javascript
+CSS, HTML, JavaScript
 
 C++/C
 

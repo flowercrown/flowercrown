@@ -2,11 +2,11 @@
 
 - 🌱 My current skill set includes: 
 
-Java
+Java (Spring)
 
 Python
 
-CSS, HTML, JavaScript
+CSS, HTML, JavaScript (React)
 
 C++/C
 
